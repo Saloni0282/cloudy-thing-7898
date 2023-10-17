@@ -1,5 +1,5 @@
 
-# cloudy-thing-7898
+# Anthropology (Clone)
 <h3>Contributor</h3>
 <a href="https://github.com/prashant7650"> Prashant Kad</a>
 <br>
